@@ -1,4 +1,4 @@
-## haievyiivan
+## Ivan Haievyi
 
 Hi! :wave:
 
@@ -7,3 +7,5 @@ Hi! :wave:
 - Currently developing an **autonomous RC Glider** with a custom relative localization system and low-latency video transmission pipeline (C, C++, STM32).
 - Feel free to ask me anything you find interesting.
 - I love sharing stories and I am always open to hearing yours too!
+
+Check out more on my [GitHub Pages](https://haievyiivan.github.io).
