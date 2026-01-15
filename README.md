@@ -1,16 +1,15 @@
-## Hi there 👋
+<br />
+<hr />
+<div align="center">
+  <img src="https://media.giphy.com/media/7SN7VRxzzcby9nyKJV/giphy.gif" width="300" alt="Memphis Phonk Dance" />
+  <br />
 
-<!--
-**haievyiivan/haievyiivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>Student at the <b>Faculty of Engineering and Applied Science</b><br>Memorial University of Newfoundland</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/ihaievyi/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/sponsors/haievyiivan">
+    <img src="https://img.shields.io/badge/Sponsor-%23db61a2.svg?logo=github&logoColor=white" alt="GitHub Sponsors" />
+  </a>
+</div>
