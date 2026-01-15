@@ -1,7 +1,8 @@
 <br />
 <hr />
 <div align="center">
-  <img src="https://media.giphy.com/media/7SN7VRxzzcby9nyKJV/giphy.gif" width="300" alt="Memphis Phonk Dance" />
+  <img src="https://github.com/user-attachments/assets/7b9ecf63-c3d8-456c-bce9-d36faf688dbd" width="300" alt="Memphis Phonk Dance" />
+  <br />
   <br />
 
   <p>Student at the <b>Faculty of Engineering and Applied Science</b><br>Memorial University of Newfoundland</p>
