@@ -13,7 +13,7 @@
         <br /><br />
         <b></b>
         <br />
-        I love making ROVs that swim or fly. You can visit my <a href="#"><b>GitHub Pages</b></a> (coming soon) for more
+        I love making ROVs that swim or fly. You can visit my <a href="https://haievyiivan.github.io/"><b>GitHub Pages</b></a> (coming soon) for more
         <br /><br />
         <b></b>
         <br />
