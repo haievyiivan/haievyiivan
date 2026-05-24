@@ -8,7 +8,7 @@
       </td>
       <td align="left" valign="middle">
         <br />
-        Student of <a href="https://www.mun.ca/engineering/"><b>Faculty of Engineering and Applied Science at Memorial University of Newfoundland</b></a>
+        Student of <a href="https://www.mun.ca/engineering/"><b>Faculty of Engineering and Applied Science at Memorial University</b></a>
         <br>
         <br /><br />
         <b></b>
