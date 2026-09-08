@@ -3,17 +3,30 @@
   <table>
     <tr>
       <td align="center" valign="middle" width="300">
-        <img src="https://github.com/user-attachments/assets/7b9ecf63-c3d8-456c-bce9-d36faf688dbd" width="250" alt="Memphis Phonk Dance" style="border-radius: 10px" />
+        <img src="https://github.com/user-attachments/assets/7b9ecf63-c3d8-456c-bce9-d36faf688dbd" width="250" alt="FPV Coastal Mapping UAV Glider" style="border-radius: 10px" />
         <br />
       </td>
       <td align="left" valign="middle">
         <br />
-        Student of <a href="https://www.mun.ca/engineering/"><b>Faculty of Engineering and Applied Science at Memorial University</b></a>
+        Electrical Engineering student at <a href="https://www.mun.ca/engineering/"><b>Faculty of Engineering and Applied Science at Memorial University</b></a>
         <br>
         <br /><br />
         <b></b>
         <br />
-        I love making ROVs that swim or fly. You can visit my <a href="https://haievyiivan.github.io/"><b>GitHub Pages</b></a> for more
+        I'm currently working on an <b>FPV / coastal mapping UAV glider</b>.
+        I'll be making a video about it, with some updates coming out in <b> early October</b>.
+        <br /><br />
+        <b>here are some specs for now:</b>
+        <br />
+        Wingspan: 1,500 mm (1.5 m)
+        <br />
+        Fuselage Width: 300 mm center body panel
+        <br />
+        Airfoil: Eppler 205 (E205)
+        <br />
+        Chord: 220 mm root → 140 mm tip
+        <br />
+        Length: ~900 mm fuselage
         <br /><br />
         <b></b>
         <br />
